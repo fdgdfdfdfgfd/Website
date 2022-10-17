@@ -1,0 +1,124 @@
+Uri: https://capp.nicepage.com/17396d76bafb5b353a90d5731cf607c1b2cbbbab/nicepage.css
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\17396d76bafb5b353a90d5731cf607c1b2cbbbab\nicepage.css
+Content Type: text/css
+
+Uri: https://capp.nicepage.com/17396d76bafb5b353a90d5731cf607c1b2cbbbab/nicepage.js
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\17396d76bafb5b353a90d5731cf607c1b2cbbbab\nicepage.js
+Content Type: application/x-javascript
+
+Uri: https://capp.nicepage.com/assets/jquery-3.5.1.min.js
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\assets\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYA.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYA.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/2623c3b39a2a545eaabf1720/jtjtjtjuy-min.jpg
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\c461c07a441a5d220e8feb1a\2623c3b39a2a545eaabf1720\jtjtjtjuy-min.jpg
+Content Type: image/jpeg
+
+Uri: https://lawrence.nicepage.io/About.css
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\About.css
+Content Type: text/css
+
+Uri: https://lawrence.nicepage.io/About.html
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\About.html
+Content Type: text/html
+
+Uri: https://lawrence.nicepage.io/Contact.css
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\Contact.css
+Content Type: text/css
+
+Uri: https://lawrence.nicepage.io/Contact.html
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\Contact.html
+Content Type: text/html
+
+Uri: https://lawrence.nicepage.io/Home.css
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\Home.css
+Content Type: text/css
+
+Uri: https://lawrence.nicepage.io/Home.html
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\Home.html
+Content Type: text/html
+
+Uri: https://lawrence.nicepage.io/nicepage-site.css
+File Name: C:\Users\lawre\Documents\Website\Me\lawrence.nicepage.io\nicepage-site.css
+Content Type: text/css
+
